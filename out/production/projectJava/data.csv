@@ -1,0 +1,5 @@
+﻿user_id;first_name;second_name;email;pw;number_sold_items;number_buy_items;to_pay;to_get
+1;admin;admin;admin@gmail.com;admin;0;0;0;0
+2;Richard;Goudelin;richard@gmail.com;Richard1;1;2;20000;100000
+3;Jean;Lafont;jean@gmail.com;Jean1;1;0;2000;100000
+4;Cal;Dragon;cal@gmail.com;Cal1;1;0;1000;50000
